@@ -1,0 +1,9 @@
+1.Emergence 0-190
+2.Idle 191-270
+3.Shout 271-370
+4.Attack(1) 371-517
+5.Attack(2)518-620
+6.Attack(3) 621-800
+7.Attack(Fire) 801-1070
+8.Get hit 1071-1112
+9.Dead 1113-1250

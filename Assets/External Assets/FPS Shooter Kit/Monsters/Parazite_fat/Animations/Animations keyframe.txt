@@ -1,0 +1,10 @@
+1.Idle 0-60
+2.Idle other 61-215
+3.Shout 216-335
+4.jump 336-400
+5.walk 401-449
+6.run 450-470
+7.get hit 471-490
+8.dead 491-521
+9.attack(1)522-585
+10.attack(2)586-640
